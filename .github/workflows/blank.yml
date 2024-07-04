@@ -5,7 +5,7 @@ on:
     
 env:
   ROM_LINK: your rom's direct link
-  ROM_LINK:https://0yfk2-my.sharepoint.com/personal/dndghru_0yfk2_onmicrosoft_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fdndghru%5F0yfk2%5Fonmicrosoft%5Fcom%2FDocuments%2F%5BPOCO%20F4%5D%20EQE%20HelloUI%20%2D%20U2UMS34M%2E27%2D38%2D1%2D2%2Ezip
+  ROM_LINK: https://0yfk2-my.sharepoint.com/personal/dndghru_0yfk2_onmicrosoft_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fdndghru%5F0yfk2%5Fonmicrosoft%5Fcom%2FDocuments%2F%5BPOCO%20F4%5D%20EQE%20HelloUI%20%2D%20U2UMS34M%2E27%2D38%2D1%2D2%2Ezip
   ROM_TYPE: Generic
   BUILD_AB: true
   BUILD_AONLY: false
