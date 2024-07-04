@@ -3,13 +3,14 @@ name: Generic System Image Builder
 on:
   workflow_dispatch:
     
-env:
-    mkdir pixel
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
+       - name : making directory
+         uses: mkdir Pixel 
+         
        - name: Repo fetching...
          uses: actions/checkout@main
            
